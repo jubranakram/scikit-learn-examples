@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['C:\\Users\\jubra\\.spyder-py3\\temp.py', 'hour_long_tutorial.py', 'scikit_learn_data_sets.py']
+recent_files = ['C:\\Users\\jubra\\.spyder-py3\\temp.py', 'sklean_decision_tree_classifier.py', 'sklean_decision_tree_regressor.py', 'sklean_bagging_classifier.py', 'sklean_random_forest_classifier.py', 'sklean_extra_trees_classifier.py', 'sklean_gradient_boosting_classifier.py', 'sklean_kernelized_svm_classifier.py']
 
